@@ -1,0 +1,14 @@
+E:\测试\001Test\DelegateTest\DelegateTest2\bin\Debug\net8.0\DelegateTest2.exe
+E:\测试\001Test\DelegateTest\DelegateTest2\bin\Debug\net8.0\DelegateTest2.deps.json
+E:\测试\001Test\DelegateTest\DelegateTest2\bin\Debug\net8.0\DelegateTest2.runtimeconfig.json
+E:\测试\001Test\DelegateTest\DelegateTest2\bin\Debug\net8.0\DelegateTest2.dll
+E:\测试\001Test\DelegateTest\DelegateTest2\bin\Debug\net8.0\DelegateTest2.pdb
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.GeneratedMSBuildEditorConfig.editorconfig
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.AssemblyInfoInputs.cache
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.AssemblyInfo.cs
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.csproj.CoreCompileInputs.cache
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.dll
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\refint\DelegateTest2.dll
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.pdb
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\DelegateTest2.genruntimeconfig.cache
+E:\测试\001Test\DelegateTest\DelegateTest2\obj\Debug\net8.0\ref\DelegateTest2.dll
